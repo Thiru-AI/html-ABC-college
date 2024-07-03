@@ -16,7 +16,8 @@ There should be an appropriate description of the college on the home page.
 
 ## academics.html
 
-![academics](https://github.com/Thiru-AI/html-ABC-college/assets/94980741/e5ef6f80-0feb-4754-b54c-abd45af892c7)
+
+![academics](https://github.com/Thiru-AI/html-ABC-college/assets/94980741/9cbb94e0-8c37-4e3d-a2e6-01f28ef26abd)
 
 
 ## admission.html
@@ -30,4 +31,5 @@ There should be an appropriate description of the college on the home page.
 
 
 ## computer-science.html
-![computer](https://github.com/Thiru-AI/html-ABC-college/assets/94980741/97b2c423-3a62-41d2-a2a4-598be0be66d6)
+![computer](https://github.com/Thiru-AI/html-ABC-college/assets/94980741/0cc5ffe6-22de-4f1a-89ff-a5d46bdf7c2a)
+
